@@ -73,4 +73,6 @@ A plug-and-play Unreal Engine Editor plugin to register project-relative Game Fe
 
     <img width="670" height="228" alt="image" src="https://github.com/user-attachments/assets/eb798afe-d4f8-4fad-87aa-969b212cc1b5" />
 
+<img width="543" height="197" alt="image" src="https://github.com/user-attachments/assets/2ec8713e-06b8-4fca-b38c-585a8457d4d1" />
+
 > **Note:** Any changes made in *Project Settings* will hot-reload automatically, no editor restart is required when adding, editing, or removing template paths!
